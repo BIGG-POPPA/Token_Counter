@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1079793229243",
+    "firebase_url": "https://tokencounter-f3ede-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tokencounter-f3ede",
+    "storage_bucket": "tokencounter-f3ede.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079793229243:android:fdaf61dab28467936a789e",
+        "android_client_info": {
+          "package_name": "com.example.token_counter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArtaB9_2P4r0XXGKKpqhQgXsoEk59CC2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
