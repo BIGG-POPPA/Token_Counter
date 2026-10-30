@@ -1,10 +1,10 @@
-# 🎮 Token Game: Live Event Console
+# Token Game: Live Event Console
 
 **A real-time, Pokédex-themed game-master console for running token-based elimination tournaments. Built with Flutter + Firebase, shipped in a weekend.**
 
 ---
 
-## 💡 What It Is
+## What It Is
 
 Running a live token-based game at an event usually means clipboards, spreadsheets and arguments about who has how many tokens. **Token Game replaces all of that with one app.** Organizers register players, start rounds, award winners and watch the leaderboard update live on every connected device.
 
@@ -16,7 +16,7 @@ Running a live token-based game at an event usually means clipboards, spreadshee
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Three game modes:**
   - **1v1:** head-to-head duels.
@@ -32,7 +32,7 @@ Running a live token-based game at an event usually means clipboards, spreadshee
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Choice |
 |---|---|
@@ -44,7 +44,7 @@ Running a live token-based game at an event usually means clipboards, spreadshee
 
 ---
 
-## 🏗 Architecture & Development Context
+##  Architecture & Development Context
 
 > **TL;DR:** This is a **weekend MVP**, built to be used at a live event, not to be a reference architecture. The goal was maximum product velocity with a working, good-looking, complete feature set. The architecture reflects that choice on purpose.
 
@@ -84,7 +84,7 @@ If this moved from event tool to product, the order of work would be:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # 1. Clone
@@ -106,7 +106,7 @@ flutter run
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 lib/
@@ -125,7 +125,7 @@ lib/
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 - Using **Firebase transactions** to keep shared game state (tokens, bands, wins) consistent when several devices write at once
 - Designing **undo and cancel flows** by snapshotting state before a destructive or irreversible action
@@ -136,9 +136,9 @@ lib/
 
 ---
 
-## 👤 Author
+##  Author
 
-**Your Name**, 2nd-year B.Tech CSE (Batch of 2029)
+**Sohan S Dodamani**, 2nd-year B.Tech CSE (Batch of 2029)
 
 [GitHub](https://github.com/<your-username>) · [LinkedIn](https://www.linkedin.com/in/sohan-dodamani/) · [Email](mailto:<sohandodamani@gmail.com>)
 
